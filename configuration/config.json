@@ -1,0 +1,8 @@
+{
+    "secret": "5JgKvsOxd278oarolsZ45Me9LkjEifmH",
+    "serverPort": 3000,
+    "host": "mcs.drury.edu",
+    "user": "scott",
+    "password": "letmein!",
+    "database": "scott"
+}
